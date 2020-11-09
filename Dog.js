@@ -1,5 +1,3 @@
-function Mouse() {
+function Dog() {
 	
 }
-
-module.export = Dog;
